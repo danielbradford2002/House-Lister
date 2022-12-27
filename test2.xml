@@ -1,0 +1,17 @@
+<houses>
+    <house>
+        <price>70000</price>
+        <footage>5000</footage>
+        <location>St. Paul</location>
+    </house>
+    <house>
+        <price>10000</price>
+        <footage>600</footage>
+        <location>Appleton</location>
+    </house>
+    <house>
+        <price>5000000</price>
+        <footage>30000</footage>
+        <location>Bowling Green</location>
+    </house>
+</houses>
